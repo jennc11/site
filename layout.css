@@ -1,0 +1,30 @@
+
+body { 
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+}
+
+img.banner {
+    width: 100%;
+    z-index: 0
+}
+
+#banner {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: auto;
+    margin-left: 0px;
+    margin-right: auto;
+    position: relative
+}
+
+a.rollover {
+    display: block;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    width: 17%;
+    height: 8%;
+    background-color: black;
+}
